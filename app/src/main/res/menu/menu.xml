@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/mynetwork"
+        android:title="My Networks"
+        android:icon="@drawable/ic_my_network"/>
+
+    <item
+        android:id="@+id/placeholder"
+        android:title="Greeting"
+        android:icon="@drawable/ic_greeting"/>
+
+
+    <item
+        android:id="@+id/post"
+        android:title="Post"
+        android:icon="@drawable/ic_post"/>
+
+
+
+    <item
+        android:id="@+id/notification"
+        android:title="Notifaction"
+        android:icon="@drawable/ic_notification"/>
+
+
+
+</menu>
