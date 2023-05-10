@@ -12,7 +12,7 @@
         android:icon="@drawable/ic_my_network"/>
 
     <item
-        android:id="@+id/placeholder"
+        android:id="@+id/greeting"
         android:title="Greeting"
         android:icon="@drawable/ic_greeting"/>
 

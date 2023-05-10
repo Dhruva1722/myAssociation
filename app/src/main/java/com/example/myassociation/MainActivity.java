@@ -41,7 +41,9 @@ public class MainActivity extends AppCompatActivity {
                         break;
                     case R.id.notification: fragment = new NotificationFragment();
                         break;
-                    case R.id.post: fragment = new NotificationFragment();
+                    case R.id.post: fragment = new PostFragment();
+                        break;
+                    case R.id.greeting: fragment = new GreetingFragment();
                         break;
                 }
                 getSupportFragmentManager().beginTransaction().replace(R.id.framelayout_id,fragment).commit();
